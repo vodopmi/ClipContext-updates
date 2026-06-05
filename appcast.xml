@@ -11,7 +11,6 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/vodopmi/ClipContext-updates/releases/download/v1.1/ClipContext-1.1.zip" length="1943450" type="application/octet-stream" sparkle:edSignature="1GjOIdavHk0cqzgkHfeJRx/RLa2kwvvvi1+rvunhv9Bpka9JLzQ9Z+P5Lz8yBlqgtWAa72L8ViOkH/IDNWrGBQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/vodopmi/ClipContext-updates/releases/download/v1.1/ClipContext202606051400-202606051351.delta" sparkle:deltaFrom="202606051351" length="100738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RA5I/hsfHO4IIQWhajc/88GJapFDntMdHpucnLuSFuaOdxy71AH+PkuBfvnvTiAgpV2MbbuisVMLWnTL5lopDA=="/>
             </sparkle:deltas>
         </item>
         <item>
