@@ -3,13 +3,22 @@
     <channel>
         <title>ClipContext</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Fri, 05 Jun 2026 14:12:19 +0200</pubDate>
+            <sparkle:version>202606051412</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/vodopmi/ClipContext-updates/releases/download/v1.2/ClipContext-1.2.zip" length="1943460" type="application/octet-stream" sparkle:edSignature="sudgoRdtJRTJpEGjpCeR8jCjOkq+gReUB2LqKmaN4QNSlxdtUAZWGpxGR3EcYTsOzYy6+Wi8vN/7CwhFZ2OEAA=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Fri, 05 Jun 2026 14:00:53 +0200</pubDate>
             <sparkle:version>202606051400</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/vodopmi/ClipContext-updates/releases/download/v1.1/ClipContext-1.1.zip" length="1943450" type="application/octet-stream" sparkle:edSignature="1GjOIdavHk0cqzgkHfeJRx/RLa2kwvvvi1+rvunhv9Bpka9JLzQ9Z+P5Lz8yBlqgtWAa72L8ViOkH/IDNWrGBQ=="/>
+            <enclosure url="https://github.com/vodopmi/ClipContext-updates/releases/download/v1.2/ClipContext-1.1.zip" length="1943450" type="application/octet-stream" sparkle:edSignature="1GjOIdavHk0cqzgkHfeJRx/RLa2kwvvvi1+rvunhv9Bpka9JLzQ9Z+P5Lz8yBlqgtWAa72L8ViOkH/IDNWrGBQ=="/>
         </item>
         <item>
             <title>1.0</title>
@@ -18,7 +27,7 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/vodopmi/ClipContext-updates/releases/download/v1.1/ClipContext-1.0.zip" length="1930139" type="application/octet-stream" sparkle:edSignature="o/qTg72ng/cap9ReNsOyEOchDsLX5JSaggAPya9Mu1vXrmauGUg3H2OPUpy5JkHwN4nWTkuQ4jFYP4tTXwnmDA=="/>
+            <enclosure url="https://github.com/vodopmi/ClipContext-updates/releases/download/v1.2/ClipContext-1.0.zip" length="1930139" type="application/octet-stream" sparkle:edSignature="o/qTg72ng/cap9ReNsOyEOchDsLX5JSaggAPya9Mu1vXrmauGUg3H2OPUpy5JkHwN4nWTkuQ4jFYP4tTXwnmDA=="/>
         </item>
     </channel>
 </rss>
