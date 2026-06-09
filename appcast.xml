@@ -3,6 +3,19 @@
     <channel>
         <title>ClipContext</title>
         <item>
+            <title>1.4</title>
+            <pubDate>Tue, 09 Jun 2026 12:47:21 +0200</pubDate>
+            <sparkle:version>202606091247</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## 1.4
+
+Улучшения и исправления.
+]]></description>
+            <enclosure url="https://github.com/vodopmi/ClipContext-updates/releases/download/v1.4/ClipContext-1.4.dmg" length="2377323" type="application/octet-stream" sparkle:edSignature="jcYAPSWahR9fB+8NGdQv9vEuKLSwsLGEMSzSfE2ZcZrAz5enEDhy/73AlB4OwT/Mxr93/VYbKG5PDXHQSW8uCg=="/>
+        </item>
+        <item>
             <title>1.3</title>
             <pubDate>Fri, 05 Jun 2026 14:27:39 +0200</pubDate>
             <sparkle:version>202606051427</sparkle:version>
@@ -19,15 +32,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/vodopmi/ClipContext-updates/releases/download/v1.3/ClipContext-1.2.zip" length="1943460" type="application/octet-stream" sparkle:edSignature="sudgoRdtJRTJpEGjpCeR8jCjOkq+gReUB2LqKmaN4QNSlxdtUAZWGpxGR3EcYTsOzYy6+Wi8vN/7CwhFZ2OEAA=="/>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Fri, 05 Jun 2026 14:00:53 +0200</pubDate>
-            <sparkle:version>202606051400</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/vodopmi/ClipContext-updates/releases/download/v1.3/ClipContext-1.1.zip" length="1943450" type="application/octet-stream" sparkle:edSignature="1GjOIdavHk0cqzgkHfeJRx/RLa2kwvvvi1+rvunhv9Bpka9JLzQ9Z+P5Lz8yBlqgtWAa72L8ViOkH/IDNWrGBQ=="/>
         </item>
     </channel>
 </rss>
